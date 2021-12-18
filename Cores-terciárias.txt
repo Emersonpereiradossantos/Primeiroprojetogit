@@ -2,3 +2,4 @@ Formação das cores:
 .azul + verde violeta= azul claro;
 .amarelo + rosa= salmão;
 .rosa + azul= roxo.
+Falta mais cores?
